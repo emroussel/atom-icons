@@ -1,0 +1,50 @@
+{
+  "iconDefinitions": {
+    "_folder_dark": {
+      "iconPath": "./images/file-directory.svg"
+    },
+    "_file_dark": {
+      "iconPath": "./images/file.svg"
+    },
+    "_file_media_dark": {
+      "iconPath": "./images/file-media.svg"
+    },
+    "_file_doc_dark": {
+      "iconPath": "./images/book.svg"
+    },
+    "_folder_light": {
+      "iconPath": "./images/file-directory-light.svg"
+    },
+    "_file_light": {
+      "iconPath": "./images/file-light.svg"
+    },
+    "_file_media_light": {
+      "iconPath": "./images/file-media-light.svg"
+    },
+    "_file_doc_light": {
+      "iconPath": "./images/book-light.svg"
+    }
+  },
+  "folder": "_folder_dark",
+  "file": "_file_dark",
+  "rootFolder": "_folder_dark",
+  "fileExtensions": {
+    "gif": "_file_media_dark",
+    "jpeg": "_file_media_dark",
+    "jpg": "_file_media_dark",
+    "md": "_file_doc_dark",
+    "png": "_file_media_dark"
+  },
+  "light": {
+    "folder": "_folder_light",
+    "rootFolder": "_folder_light",
+    "file": "_file_light",
+    "fileExtensions": {
+      "gif": "_file_media_light",
+      "jpeg": "_file_media_light",
+      "jpg": "_file_media_light",
+      "md": "_file_doc_light",
+      "png": "_file_media_light"
+    }
+  }
+}
