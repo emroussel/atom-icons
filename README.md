@@ -1,5 +1,7 @@
 # Atom Icons
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/emroussel.atom-icons.svg)](https://marketplace.visualstudio.com/items?itemName=emroussel.atom-icons)
+
 A detailed and accurate Atom One Dark file and folder icon theme for VS Code
 
 <img src="https://raw.githubusercontent.com/emroussel/atom-icons/master/images/screenshot.png" alt="Screenshot of VS Code with Atom Icons theme" />
