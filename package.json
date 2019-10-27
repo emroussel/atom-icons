@@ -2,7 +2,7 @@
   "name": "atom-icons",
   "displayName": "Atom Icons",
   "description": "Atom file and folder icons for VS Code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "emroussel",
   "license": "MIT",
   "engines": {
