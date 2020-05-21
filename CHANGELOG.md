@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.4 (May 20, 2020)
+
+- Fix size of icons
+
 ## 1.0.3 (October 27, 2019)
 
 - Add new screenshot to match VS Code's new icons
