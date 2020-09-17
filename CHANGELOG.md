@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.0 (Sep 17, 2020)
+
+- Add root folder icon
+
 ## 1.0.4 (May 20, 2020)
 
 - Fix size of icons
