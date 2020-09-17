@@ -23,11 +23,17 @@
     },
     "_file_doc_light": {
       "iconPath": "./images/book-light.svg"
+    },
+    "_root_dark": {
+      "iconPath": "./images/root.svg"
+    },
+    "_root_light": {
+      "iconPath": "./images/root-light.svg"
     }
   },
   "folder": "_folder_dark",
   "file": "_file_dark",
-  "rootFolder": "_folder_dark",
+  "rootFolder": "_root_dark",
   "fileExtensions": {
     "gif": "_file_media_dark",
     "jpeg": "_file_media_dark",
@@ -37,7 +43,7 @@
   },
   "light": {
     "folder": "_folder_light",
-    "rootFolder": "_folder_light",
+    "rootFolder": "_root_light",
     "file": "_file_light",
     "fileExtensions": {
       "gif": "_file_media_light",
