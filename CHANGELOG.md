@@ -1,6 +1,11 @@
 # Change Log
 
-## 1.1.0 (Sep 17, 2020)
+## 1.2.0 (April 24, 2021)
+
+- Add icon for zip file
+- Add pdf icon
+
+## 1.1.0 (September 17, 2020)
 
 - Add root folder icon
 
