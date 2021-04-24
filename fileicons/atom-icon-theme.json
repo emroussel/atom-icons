@@ -12,6 +12,9 @@
     "_file_doc_dark": {
       "iconPath": "./images/book.svg"
     },
+    "_file_pdf_dark": {
+      "iconPath": "./images/file-pdf.svg"
+    },
     "_root_dark": {
       "iconPath": "./images/root.svg"
     },
@@ -30,6 +33,9 @@
     "_file_doc_light": {
       "iconPath": "./images/book-light.svg"
     },
+    "_file_pdf_light": {
+      "iconPath": "./images/file-pdf-light.svg"
+    },
     "_root_light": {
       "iconPath": "./images/root-light.svg"
     },
@@ -46,6 +52,7 @@
     "jpg": "_file_media_dark",
     "md": "_file_doc_dark",
     "png": "_file_media_dark",
+    "pdf": "_file_pdf_dark",
     "zip": "_file_zip_dark",
     "tar": "_file_zip_dark",
     "xz": "_file_zip_dark",
@@ -72,6 +79,7 @@
       "jpg": "_file_media_light",
       "md": "_file_doc_light",
       "png": "_file_media_light",
+      "pdf": "_file_pdf_light",
       "zip": "_file_zip_light",
       "tar": "_file_zip_light",
       "xz": "_file_zip_light",
